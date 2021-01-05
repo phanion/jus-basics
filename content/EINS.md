@@ -1,9 +1,9 @@
-<button onclick="window.location.href='/EINS'">EINS</button>
-<button onclick="window.location.href='/ZWEI'">ZWEI</button>
-<button onclick="window.location.href='/DREI'">DREI</button>
-<button onclick="window.location.href='/VIER'">VIER</button>
-<button onclick="window.location.href='/FÜNF'">FÜNF</button>
-<button onclick="window.location.href='/SECHS'">SECHS</button>
+<button name="button1" onclick="window.location.href='/EINS.html'">EINS</button>
+<button name="button2" onclick="window.location.href='/ZWEI.html'">ZWEI</button>
+<button name="button3" onclick="window.location.href='/DREI.html'">DREI</button>
+<button name="button4" onclick="window.location.href='/VIER.html'">VIER</button>
+<button name="button5" onclick="window.location.href='/FÜNF.html'">FÜNF</button>
+<button name="button6" onclick="window.location.href='/SECHS.html'">SECHS</button>
 
 # EINS - Vom Recht, von den Juristen und von der Juristensprache
 
