@@ -1,17 +1,3 @@
-<button name="button1" onclick="window.location.href='/content/EINS.html'">EINS</button>
-<button name="button2" onclick="window.location.href='/content/ZWEI.html'">ZWEI</button>
-<button name="button3" onclick="window.location.href='/content/DREI.html'">DREI</button>
-<button name="button4" onclick="window.location.href='/content/VIER.html'">VIER</button>
-<button name="button5" onclick="window.location.href='/content/FÜNF.html'">FÜNF</button>
-<button name="button6" onclick="window.location.href='/content/SECHS.html'">SECHS</button>
-
-[EINS](/content/EINS.md){: .btn}
-[ZWEI](/content/ZWEI.md){: .btn}
-[DREI](/content/DREI.md){: .btn}
-[VIER](/content/VIER.md){: .btn}
-[FÜNF](/content/FÜNF.md){: .btn}
-[SECHS](/content/SECHS.md){: .btn}
-
 # EINS - Vom Recht, von den Juristen und von der Juristensprache
 
 ## Annäherung an den Rechtsbegriff

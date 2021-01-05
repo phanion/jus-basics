@@ -1,10 +1,3 @@
-<button onclick="window.location.href='/EINS'">EINS</button>
-<button onclick="window.location.href='/ZWEI'">ZWEI</button>
-<button onclick="window.location.href='/DREI'">DREI</button>
-<button onclick="window.location.href='/VIER'">VIER</button>
-<button onclick="window.location.href='/FÜNF'">FÜNF</button>
-<button onclick="window.location.href='/SECHS'">SECHS</button>
-
 # DREI Grundbegriffe des Strafrechts
 _Wiederholungsfragen S. 98_
 
