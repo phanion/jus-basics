@@ -5,6 +5,13 @@
 <button name="button5" onclick="window.location.href='/FÜNF.html'">FÜNF</button>
 <button name="button6" onclick="window.location.href='/SECHS.html'">SECHS</button>
 
+[EINS](/EINS.md){: .btn}
+[ZWEI](/ZWEI.md){: .btn}
+[DREI](/DREI.md){: .btn}
+[VIER](/VIER.md){: .btn}
+[FÜNF](/FÜNF.md){: .btn}
+[SECHS](/SECHS.md){: .btn}
+
 # EINS - Vom Recht, von den Juristen und von der Juristensprache
 
 ## Annäherung an den Rechtsbegriff
