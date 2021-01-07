@@ -1,4 +1,16 @@
 theme: jekyll-theme-cayman
 title: JUS BASICS
-description: Jus basics
+description: jus basics
 baseurl: /jus-basics
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - content/EINS.md
+  - content/ZWEI.md
+  - content/DREI.md
+  - content/VIER.md
+  - content/FÜNF.md
+  - content/SECHS.md
